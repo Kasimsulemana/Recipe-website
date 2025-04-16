@@ -26,6 +26,7 @@
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     position: relative;
+    left: 40%;
     align-items: center;
     justify-content: center;
     margin: 10px;
